@@ -62,3 +62,6 @@ The API validates:
 ## Pricing
 - Free tier: 100 requests/month
 - $29/month: Unlimited requests, priority support
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/iban-validator/main/postman_collection.json)
